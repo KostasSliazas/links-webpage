@@ -491,7 +491,9 @@ button:active {
 .buttons {
     display: none;
 }
-
+.wraplabels{
+    white-space: nowrap;
+}
 .wrap {
     height: 240px;
     border-top: 1px solid var(--color-primary-2);
