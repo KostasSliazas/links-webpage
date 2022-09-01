@@ -1,9 +1,9 @@
 :root {
-    --color-primary-0: #7a7a7a;
-    --color-primary-1: #cfcfcf;
-    --color-primary-2: #b1b0af;
-    --color-primary-3: #48494e;
-    --color-primary-4: #1C1817;
+    --color-primary-0: #b9b9b9;
+    --color-primary-1: #4D4D4D;
+    --color-primary-2: #141316;
+    --color-primary-3: #30343d;
+    --color-primary-4: #000000;
 }
 
 @keyframes loader {
@@ -31,7 +31,7 @@ body {
     margin: 0;
     font: 16px/1.5 'Nunito', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background: var(--color-primary-4);
-    color: #999;
+    color: #dfdfdf;
     height: 100%;
 }
 
@@ -491,9 +491,11 @@ button:active {
 .buttons {
     display: none;
 }
-.wraplabels{
+
+.wraplabels {
     white-space: nowrap;
 }
+
 .wrap {
     height: 240px;
     border-top: 1px solid var(--color-primary-2);
