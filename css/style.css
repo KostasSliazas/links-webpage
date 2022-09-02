@@ -486,6 +486,7 @@ button:active {
     user-select: none;
     overflow: hidden;
     border-bottom: 1px solid var(--color-primary-2);
+    overscroll-behavior-y: contain;
 }
 
 .buttons {
@@ -504,7 +505,6 @@ button:active {
     position: relative;
     overflow-y: auto;
     scrollbar-width: none;
-    overscroll-behavior-y: contain;
 }
 
 .wrap::-webkit-scrollbar {
