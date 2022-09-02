@@ -474,7 +474,6 @@ button:active {
 
 .tabs {
     font-size: 0;
-    height: 264px;
     position: relative;
     -webkit-tap-highlight-color: transparent;
     -moz-tap-highlight-color: transparent;
@@ -484,7 +483,6 @@ button:active {
     -moz-user-select: none;
     -ms-user-select: none;
     user-select: none;
-    overflow: hidden;
     border-bottom: 1px solid var(--color-primary-2);
     overscroll-behavior-y: contain;
 }
@@ -498,7 +496,7 @@ button:active {
 }
 
 .wrap {
-    height: 240px;
+    height: min-content;
     border-top: 1px solid var(--color-primary-2);
     margin-top: -2px;
     direction: ltr;
@@ -522,7 +520,6 @@ button:active {
     bottom: -2px;
     display: block;
     font-size: 24px;
-    background: linear-gradient(0deg, #111 30%, transparent 100%);
     z-index: 1;
     pointer-events: none
 }
@@ -532,8 +529,6 @@ button:active {
     display: none;
     font-size: initial;
     z-index: -1;
-    padding-bottom: 120px;
-    cursor: all-scroll;
 }
 
 .wraplabels label:nth-child(1) {
