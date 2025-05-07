@@ -3,12 +3,12 @@
 A simple webpage - list of useful tools, web apps, and resources — all organized for easy access and reference.
 
 ## 📚 Table of Contents
-- [Features](#-features)
+- [Links](#-features)
 - [License](#-license)
 - [Contributing](#-contributing)
 - [Author](#-author)
 
-## 🚀 Features
+## 🚀 Links
 
 - Online utilities
 - Developer tools
