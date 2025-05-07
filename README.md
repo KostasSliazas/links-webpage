@@ -2,24 +2,34 @@
 
 A simple webpage - list of useful tools, web apps, and resources — all organized for easy access and reference.
 
-## Overview
+## 📚 Table of Contents
+- [Features](#-features)
+- [License](#-license)
+- [Contributing](#-contributing)
+- [Author](#-author)
 
-This project serves as a personal collection of bookmarks for:
+## 🚀 Features
+
 - Online utilities
 - Developer tools
 - Productivity apps
 - Creative resources
+- Programs
 
-## Features
+## 📄 License
 
-- Organized layout for categorized links
-- Minimal design for fast loading and readability
-- Easy to edit and expand with new resources
+This project is licensed under the [MIT License](LICENSE).
 
-## Getting Started
+## 💬 Contributing
 
-### Clone the repository
+To contribute to this project, fork this repository, create a new branch, and submit a pull request.
+
+Clone the repository with the following command:
 
 ```bash
-git clone https://github.com/KostasSliazas/links-webpage.git
-cd links-webpage
+git clone https://github.com/KostasSliazas/links-webpage
+```
+
+## 👤 Author
+
+Kostas Šliažas
