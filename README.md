@@ -1,35 +1,45 @@
-# links-webpage
+# links webpage
+
+[![License](https://img.shields.io/github/license/KostasSliazas/links-webpage)](LICENSE)
+[![Stars](https://img.shields.io/github/stars/KostasSliazas/links-webpage?style=social)](https://github.com/KostasSliazas/links-webpage/stargazers)
+[![Forks](https://img.shields.io/github/forks/KostasSliazas/links-webpage?style=social)](https://github.com/KostasSliazas/links-webpage/forks)
+[![Issues](https://img.shields.io/github/issues/KostasSliazas/links-webpage)](https://github.com/KostasSliazas/links-webpage/issues)
+[![Last Commit](https://img.shields.io/github/last-commit/KostasSliazas/links-webpage)](https://github.com/KostasSliazas/links-webpage/commits)
+
+## Table of Contents
+
+* [Features](#features)
+* [License](#license)
+* [Contributing](#contributing)
+* [Contributors](#contributors)
+* [Author](#author)
+
+
+## Description
 
 A simple webpage - list of useful tools, web apps, and resources — all organized for easy access and reference.
-
-## 📚 Table of Contents
-- [Links](#-features)
-- [License](#-license)
-- [Contributing](#-contributing)
-- [Author](#-author)
-
-## 🚀 Links
+## Features
 
 - Online utilities
 - Developer tools
 - Productivity apps
 - Creative resources
 - Programs
-
-## 📄 License
+## License
 
 This project is licensed under the [MIT License](LICENSE).
+## Contributing
 
-## 💬 Contributing
+To contribute, please fork this repository, create a new branch, and submit a pull request.
 
-To contribute to this project, fork this repository, create a new branch, and submit a pull request.
-
-Clone the repository with the following command:
-
+Clone:
 ```bash
 git clone https://github.com/KostasSliazas/links-webpage
 ```
+## Contributors
 
-## 👤 Author
+- [@KostasSliazas](https://github.com/KostasSliazas)
+
+## Author
 
 Kostas Šliažas
