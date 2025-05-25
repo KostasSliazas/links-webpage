@@ -37,8 +37,7 @@ Clone:
 git clone https://github.com/KostasSliazas/links-webpage
 ```
 ## Contributors
-
-- [@KostasSliazas](https://github.com/KostasSliazas)
+[@KostasSliazas](https://github.com/KostasSliazas)
 
 ## Author
 
