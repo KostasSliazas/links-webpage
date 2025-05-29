@@ -25,9 +25,6 @@ A simple webpage - list of useful tools, web apps, and resources — all organiz
 - Productivity apps
 - Creative resources
 - Programs
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 ## Contributing
 
 To contribute, please fork this repository, create a new branch, and submit a pull request.
@@ -42,3 +39,8 @@ git clone https://github.com/KostasSliazas/links-webpage
 ## Author
 
 Kostas Šliažas
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
