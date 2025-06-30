@@ -27,8 +27,6 @@ A simple webpage - list of useful tools, web apps, and resources — all organiz
 - Programs
 ## Contributing
 
-To contribute, please fork this repository, create a new branch, and submit a pull request.
-
 Clone:
 ```bash
 git clone https://github.com/KostasSliazas/links-webpage
