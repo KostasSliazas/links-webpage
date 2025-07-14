@@ -17,7 +17,7 @@
 
 ## Description
 
-A simple webpage - list of useful tools, web apps, and resources — all organized for easy access and reference.
+A simple webpage - list of (links) useful tools, web apps, and resources — all organized for easy access and reference.
 ## Features
 
 - Online utilities
